@@ -1,0 +1,6 @@
+arameters:
+	level: 7
+	paths:
+		- src
+	bootstrapFiles:
+		- tests/bootstrap.php
